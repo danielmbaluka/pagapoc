@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sample_string">Is there a way to allow the user to select / copy text in a TextView? I need the same functionality of EditText where you can long-press the control and get the popup options of select all / copy, but I need the control to look like a TextView</string>
+</resources>
